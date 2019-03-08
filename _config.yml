@@ -1,8 +1,8 @@
 # site settings
 title: code-nomade.github.io
-subtitle: by Adolfo Andrés Hincapié Garcia  
+subtitle: by Adolfo Andrés Hincapié Garcia
 email: bandreshin@gmail.com
-description: A responsive site template designed by me<br /> and released under the Creative Commons.
+description: A responsive site designed by me<br /> to share and released under the Creative Commons /> Codes , Ideas, ...
 baseurl: "/code-nomade.github.io" # the subpath of your site, e.g. /blog
 url:
 author: Adolfo Andrés Hincapié García
