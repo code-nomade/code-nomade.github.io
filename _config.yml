@@ -4,14 +4,14 @@ subtitle: by Adolfo Andrés Hincapié Garcia
 email: bandreshin@gmail.com
 description: A responsive site template designed by me<br /> and released under the Creative Commons.
 baseurl: "/code-nomade.github.io" # the subpath of your site, e.g. /blog
-url: code-nomade.github.io
-author: Adolfo Andrés Hincapie
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+url:
+author: Adolfo Andrés Hincapié García
+street_address: Patio Bonito
+city: Medellín
+state: An
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: Colombia
+phone: (57) 310 539 6184
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
